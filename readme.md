@@ -1,2 +1,3 @@
 This Patch was developed with:
-- Playstation Eye Camera
+* vvvv_45beta29.2
+* Playstation Eye Camera
